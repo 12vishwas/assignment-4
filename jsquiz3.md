@@ -1,6 +1,6 @@
 # Javascript quiz (Basic Level - 3)
 
-1. Explain as much as you know about objects in javascript? (A long answer expected).
+1. Explain as much as you know about objects in javascript? (A long answer expected).<br>
 Ans. objects are reference data type in javascript.object is a collection of properties that are "key:value" pairs,these pairs are of same or different data types.keys must be of string datatype and values can hold item of any datatype.function behave like an object in javascript.we can access keys and values by writing "object.keys(object name)" and "object.values(object name").when the value of property is a function then it is known as method.
 
 2. Read the code :
@@ -30,7 +30,7 @@ class vector{
 }
 ```
 
-3. Do you think javascript is the language of the future?
+3. Do you think javascript is the language of the future?<br>
 Ans. yes,javascript is the language of future because it is widely used in web development,video games,apps and high in demand.js is essential for web developers nowadays.we can develop front-end or back-end both with the help of js frameworks.
 
 ``` Javascript
